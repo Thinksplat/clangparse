@@ -1,0 +1,1 @@
+clang++ -Xclang -ast-dump=json -fparse-all-comments test.hpp
